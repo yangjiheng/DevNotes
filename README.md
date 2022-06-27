@@ -1,6 +1,8 @@
 # Development Related Notes
 
-## Ubuntu Development Environment
+## System Environment 
+
+### Ubuntu Development Environment
 
 * Solving -lGL unsupported:  
 ```bash
@@ -10,6 +12,12 @@ sudo apt-get install libgl1-mesa-dev
 ```bash
 sudo apt-get install zlib1g-dev
 ```
+
+## Native Client Development Related
+
+### QT Related
+
+* Check is a QString is number: <a href="https://gist.github.com/yangjiheng/d3313b7caa62b21ff4c04eb82264fcea">Code Gist</a>
 
 # About This Repository
 
