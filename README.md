@@ -26,7 +26,7 @@ sudo apt-get install zlib1g-dev
 
 ### QT Related
 
-* Check is a QString is number: <a href="https://gist.github.com/yangjiheng/d3313b7caa62b21ff4c04eb82264fcea">Code Gist</a>
+* Check is a QString is number: <a target=_blank href="https://gist.github.com/yangjiheng/d3313b7caa62b21ff4c04eb82264fcea">Code Gist</a>
 
 # About This Repository
 
