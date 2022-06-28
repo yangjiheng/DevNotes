@@ -12,17 +12,10 @@
 
 ### Ubuntu Development Environment
 
-* Solving -lGL unsupported:  
-```bash
-sudo apt-get install libgl1-mesa-dev
-```
-* Solving -lz unsupported: 
-```bash
-sudo apt-get install zlib1g-dev
-```
+* Solving -lGL unsupported:  <a target=_blank href="https://gist.github.com/yangjiheng/4a6d6f5279306d88a88c7256da1a55a6">Code Gist</a>
+* Solving -lz unsupported:  <a target=_blank href="https://gist.github.com/yangjiheng/135eb7402fc4d861381f35c81317e60d">Code Gist</a>
 
 ## Native Client Development
-
 
 ### QT Related
 
