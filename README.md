@@ -19,6 +19,7 @@
 
 ### QT Related
 
+* Install QT on Ubuntu, especially on ARM 64, where there is no prebuilt all-in-one install files: <a href="https://gist.github.com/yangjiheng/32ab1adabb5d2961bc695f3763914bc2">Code Gist</a>
 * Check is a QString is number: <a target=_blank href="https://gist.github.com/yangjiheng/d3313b7caa62b21ff4c04eb82264fcea">Code Gist</a>
 
 # About This Repository
