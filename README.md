@@ -2,7 +2,8 @@
 
 ## Table of Content
 - **[System Environment](#system-environment)**
-    - **[Ubuntu Development Environment](#ubuntu-development-environment)**
+    - **[Ubuntu](#ubuntu-development-environment)**
+    - **[nVidia Jetson](#nvidia-jetson)**
 - **[ Native Client Development](#native-client-development)**
     - **[QT Tech](#qt-related)**
 
@@ -14,6 +15,9 @@
 
 * Solving -lGL unsupported:  <a target=_blank href="https://gist.github.com/yangjiheng/4a6d6f5279306d88a88c7256da1a55a6">Code Gist</a>
 * Solving -lz unsupported:  <a target=_blank href="https://gist.github.com/yangjiheng/135eb7402fc4d861381f35c81317e60d">Code Gist</a>
+
+### nVidia Jetson
+* Install JetPack on Jetson: <a target="_blank" href="https://developer.nvidia.com/embedded/jetpack">Official Website</a>. A host Linux machine and the target HW device is required (preferrably connected with a micro-USB cable). Then JetPack can be install via nVidia SDK Manager.
 
 ## Native Client Development
 
