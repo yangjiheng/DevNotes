@@ -4,6 +4,7 @@
 - **[System Environment](#system-environment)**
     - **[Ubuntu](#ubuntu-development-environment)**
     - **[nVidia Jetson](#nvidia-jetson)**
+- **[Development Principles]
 - **[Native Client Development](#native-client-development)**
     - **[QT Tech](#qt-related)**
 - **[Data Analysis](#data-analysis)**
@@ -19,6 +20,11 @@
 
 ### nVidia Jetson
 * Install JetPack on Jetson: <a target="_blank" href="https://developer.nvidia.com/embedded/jetpack">Official Website</a>. A host Linux machine and the target HW device is required (preferrably connected with a micro-USB cable). Then JetPack can be install via nVidia SDK Manager.
+
+## Development Principles
+
+### Unix Like Systems
+* Always be careful on `make install` calls to system paths. It could hurt compiling other libraries when in dependencies. Use prefix for `make install` whenever possible.
 
 ## Native Client Development
 
